@@ -30,3 +30,4 @@ Once installed and configured, the email verification module seamlessly integrat
 3. *Confirmation*: Prompt the user to click on the verification link and confirm their email address within a specified time frame.
 4. *Access Control*: Restrict access to certain features or functionalities until the user successfully verifies their email address.
 5. *Error Handling*: Handle scenarios such as expired verification links, invalid email addresses, or failed delivery attempts gracefully to provide a seamless user experience.
+   
